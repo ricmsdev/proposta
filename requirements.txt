@@ -6,3 +6,5 @@ numpy==1.25.2
 altair==5.0.1
 plotly==5.15.0
 graphviz==0.20.1
+setuptools==68.0.0
+distutils
