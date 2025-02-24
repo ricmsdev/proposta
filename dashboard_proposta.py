@@ -30,7 +30,7 @@ custom_css = """
 body {
     font-family: 'Roboto', sans-serif;
     background-color: #f4f4f8;
-    color: #333;
+    color: #000000 !important;
     margin: 0;
     padding: 0;
 }
